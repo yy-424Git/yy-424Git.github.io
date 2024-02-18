@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>探秘Sora原理，图解Sora(思维导图)</title>
+    <link href="/sora-technical-report-mindmap/"/>
+    <url>/sora-technical-report-mindmap/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Sora原理？Sora技术报告解读（思维导图版）"><a href="#Sora原理？Sora技术报告解读（思维导图版）" class="headerlink" title="Sora原理？Sora技术报告解读（思维导图版）"></a>Sora原理？Sora技术报告解读（思维导图版）</h2><p>这份思维导图是将Sora技术报告进行了整理和总结，并以思维导图的方式呈现了出来。</p><p>使大家能够更清晰、明了的读懂sora技术报告。</p><p>sora技术报告链接：<a href="https://openai.com/research/video-generation-models-as-world-simulators">https://openai.com/research/video-generation-models-as-world-simulators</a></p><p>思维导图以图片的格式给出，<strong>图片较大，加载需要一定时间，请耐心等待</strong></p><p><img src="https://anyubenyu.oss-cn-shanghai.aliyuncs.com/img202402181623656.png" alt="img"></p><p>参考文章：<a href="https://chatgpt-zhinan.online/sora-technical-report-mindmap/">Sora原理？Sora技术报告解读（思维导图版）</a></p><p>文章链接: <a href="https://chatgpt-zhinan.online/sora-technical-report-mindmap/">https://chatgpt-zhinan.online/sora-technical-report-mindmap/</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>【亲测】解决ChatGPT邮箱注册失败，提示The email you provided is not supported，解决&#39;不支持所提供邮箱&#39;</title>
     <link href="/chatgpt-register-failure.html"/>
     <url>/chatgpt-register-failure.html</url>
