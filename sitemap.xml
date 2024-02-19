@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chatgpt-zhinan.online/chatgpt-update-guide.html</loc>
+    
+    <lastmod>2024-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chatgpt-zhinan.online/use-sora-guide.html</loc>
     
     <lastmod>2024-02-18</lastmod>
@@ -101,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://chatgpt-zhinan.online/chatgpt-update-guide.html</loc>
-    
-    <lastmod>2024-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://chatgpt-zhinan.online/chatgpt-register-guide.html</loc>
     
     <lastmod>2024-02-02</lastmod>
@@ -130,7 +130,7 @@
 
   <url>
     <loc>https://chatgpt-zhinan.online/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
