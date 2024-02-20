@@ -2,45 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chatgpt-zhinan.online/use-sora-guide.html</loc>
-    
-    <lastmod>2024-02-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-zhinan.online/chatgpt-update-guide.html</loc>
-    
-    <lastmod>2024-02-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-zhinan.online/sub-patreon-guide.html</loc>
-    
-    <lastmod>2024-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://chatgpt-zhinan.online/sub-youtube-guide.html</loc>
     
-    <lastmod>2024-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-zhinan.online/sora-technical-report-mindmap/</loc>
-    
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,25 +13,7 @@
   <url>
     <loc>https://chatgpt-zhinan.online/chatgpt-register-failure.html</loc>
     
-    <lastmod>2024-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-zhinan.online/chatgpt-team-guide.html</loc>
-    
-    <lastmod>2024-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-zhinan.online/chatgpt-sora.html</loc>
-    
-    <lastmod>2024-02-17</lastmod>
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +22,7 @@
   <url>
     <loc>https://chatgpt-zhinan.online/onlyfans-how-search.html</loc>
     
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +31,34 @@
   <url>
     <loc>https://chatgpt-zhinan.online/use_onlyfans.html</loc>
     
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/use-sora-guide.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/chatgpt-team-guide.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/sub-patreon-guide.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +67,7 @@
   <url>
     <loc>https://chatgpt-zhinan.online/midjourney-register-guide.html</loc>
     
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +76,25 @@
   <url>
     <loc>https://chatgpt-zhinan.online/onlyfans-sub.html</loc>
     
-    <lastmod>2024-02-02</lastmod>
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/chatgpt-sora.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/sora-technical-report-mindmap/</loc>
+    
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +103,16 @@
   <url>
     <loc>https://chatgpt-zhinan.online/chatgpt-register-guide.html</loc>
     
-    <lastmod>2024-02-02</lastmod>
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/chatgpt-update-guide.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,12 +130,47 @@
 
   <url>
     <loc>https://chatgpt-zhinan.online/</loc>
-    <lastmod>2024-02-19</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/categories/Midjourney/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/categories/Onlyfans/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/categories/ChatGPT/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/categories/Youtube/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/categories/Patreon/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
