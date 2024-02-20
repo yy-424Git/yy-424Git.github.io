@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chatgpt-zhinan.online/sora-wiki.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chatgpt-zhinan.online/sora-with-elevenlabs-audio.html</loc>
     
     <lastmod>2024-02-20</lastmod>
@@ -148,13 +157,6 @@
 
   
   <url>
-    <loc>https://chatgpt-zhinan.online/categories/Onlyfans/</loc>
-    <lastmod>2024-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://chatgpt-zhinan.online/categories/Midjourney/</loc>
     <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,6 +165,13 @@
   
   <url>
     <loc>https://chatgpt-zhinan.online/categories/ChatGPT/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-zhinan.online/categories/Onlyfans/</loc>
     <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
