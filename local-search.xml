@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2024/02/27/hexo%E6%B7%BB%E5%8A%A0%E5%8F%8B%E9%93%BE/"/>
+    <url>/2024/02/27/hexo%E6%B7%BB%E5%8A%A0%E5%8F%8B%E9%93%BE/</url>
+    
+    <content type="html"><![CDATA[<h2 id="在主题目录下找到配置文件-config-yml"><a href="#在主题目录下找到配置文件-config-yml" class="headerlink" title="在主题目录下找到配置文件_config.yml"></a>在主题目录下找到配置文件<code>_config.yml</code></h2><p>以fluid为例<code>hexo-blog\themes\fluid\</code>_config.yml ，先开启友链，按如下配置</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">navbar:</span><br>  <span class="hljs-attr">menu:</span><br>    <span class="hljs-bullet">-</span> &#123; <span class="hljs-attr">key:</span> <span class="hljs-string">&#x27;links&#x27;</span>, <span class="hljs-attr">link:</span> <span class="hljs-string">&#x27;/links/&#x27;</span>, <span class="hljs-attr">icon:</span> <span class="hljs-string">&#x27;iconfont icon-link-fill&#x27;</span> &#125;<br></code></pre></td></tr></table></figure><p><img src="https://anyubenyu.oss-cn-shanghai.aliyuncs.com/img202402272221304.png" alt="image-20240227222131176"></p><h2 id="然后编辑友链，找到-links-的配置项，对页面内容进行配置："><a href="#然后编辑友链，找到-links-的配置项，对页面内容进行配置：" class="headerlink" title="然后编辑友链，找到 links 的配置项，对页面内容进行配置："></a>然后编辑友链，找到 <code>links</code> 的配置项，对页面内容进行配置：</h2><p>这里以北哥的网站为例</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">links:</span><br>  <span class="hljs-attr">items:</span><br>    <span class="hljs-bullet">-</span> &#123;<br>      <span class="hljs-attr">title:</span> <span class="hljs-string">&#x27;编程指北的小站&#x27;</span>,<br>      <span class="hljs-attr">intro:</span> <span class="hljs-string">&#x27;ChatGPT-PLUS指南，最新资讯&#x27;</span>,<br>      <span class="hljs-attr">link:</span> <span class="hljs-string">&#x27;http://anyubenyu.com/&#x27;</span>,<br>      <span class="hljs-attr">avatar:</span> <span class="hljs-string">&#x27;/img/favicon.png&#x27;</span><br>    &#125;<br>  <span class="hljs-attr">default_avatar:</span> <span class="hljs-string">/img/avatar.png</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ChatGPT Plus有询问次数限制吗？如何无限使用</title>
     <link href="/chatgpt-limit.html"/>
     <url>/chatgpt-limit.html</url>
