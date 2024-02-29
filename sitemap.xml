@@ -175,7 +175,7 @@
 
   <url>
     <loc>https://anyuebenyu.com/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -185,42 +185,42 @@
   
   <url>
     <loc>https://anyuebenyu.com/categories/ChatGPT/</loc>
-    <lastmod>2024-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anyuebenyu.com/categories/Onlyfans/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Midjourney/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anyuebenyu.com/categories/Onlyfans/</loc>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Sora/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Youtube/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Patreon/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
