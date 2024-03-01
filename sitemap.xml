@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://anyuebenyu.com/chatgpt-open-failure.html</loc>
+    
+    <lastmod>2024-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anyuebenyu.com/chatgpt-limit.html</loc>
     
     <lastmod>2024-02-26</lastmod>
@@ -175,7 +184,7 @@
 
   <url>
     <loc>https://anyuebenyu.com/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -184,43 +193,43 @@
 
   
   <url>
-    <loc>https://anyuebenyu.com/categories/Onlyfans/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <loc>https://anyuebenyu.com/categories/ChatGPT/</loc>
+    <lastmod>2024-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Midjourney/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://anyuebenyu.com/categories/ChatGPT/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <loc>https://anyuebenyu.com/categories/Onlyfans/</loc>
+    <lastmod>2024-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Sora/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anyuebenyu.com/categories/Patreon/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyuebenyu.com/categories/Youtube/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anyuebenyu.com/categories/Patreon/</loc>
+    <lastmod>2024-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
