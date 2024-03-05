@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://anyubenyu.com/claude3-register-guide.html</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anyubenyu.com/claude3-sub.html</loc>
     
     <lastmod>2024-03-05</lastmod>
@@ -227,14 +236,14 @@
   </url>
   
   <url>
-    <loc>https://anyubenyu.com/categories/Midjourney/</loc>
+    <loc>https://anyubenyu.com/categories/ChatGPT%E8%B5%84%E8%AE%AF/</loc>
     <lastmod>2024-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://anyubenyu.com/categories/ChatGPT%E8%B5%84%E8%AE%AF/</loc>
+    <loc>https://anyubenyu.com/categories/Midjourney/</loc>
     <lastmod>2024-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
