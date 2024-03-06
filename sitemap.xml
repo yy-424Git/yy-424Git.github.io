@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://anyubenyu.com/settle-claude3-banned.html</loc>
+    
+    <lastmod>2024-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anyubenyu.com/how-to-register-claude3.html</loc>
+    
+    <lastmod>2024-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anyubenyu.com/claude3-register-guide.html</loc>
     
     <lastmod>2024-03-05</lastmod>
@@ -220,7 +238,7 @@
 
   <url>
     <loc>https://anyubenyu.com/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -230,49 +248,56 @@
   
   <url>
     <loc>https://anyubenyu.com/categories/ChatGPT/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyubenyu.com/categories/ChatGPT%E8%B5%84%E8%AE%AF/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyubenyu.com/categories/Midjourney/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyubenyu.com/categories/Onlyfans/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyubenyu.com/categories/Sora/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anyubenyu.com/categories/Claude/</loc>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyubenyu.com/categories/Youtube/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anyubenyu.com/categories/Patreon/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
